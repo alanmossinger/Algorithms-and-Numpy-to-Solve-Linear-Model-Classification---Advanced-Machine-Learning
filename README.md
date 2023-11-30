@@ -1,4 +1,4 @@
-# Mathematics-to-solve-Linear-Model-Classification---Machine-Learning
+# Mathematics-to-solve-Linear-Model-Classification and Optimization---Machine-Learning
 
 Machine learning is a powerful tool that allows computers to learn from data and make predictions or decisions without being explicitly programmed. 
 One of the fundamental concepts in machine learning is the linear model classifier, a simple yet effective algorithm for classification tasks.
